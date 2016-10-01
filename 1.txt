@@ -1,1 +1,2 @@
-user 1 add
+user 1 add gvidonchik haha
+line 2 added by user 1
